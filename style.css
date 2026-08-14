@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     /* height: 100vh; */
-    background-color: #ffd5ec;
+    background-color: #e2e61f;
     /* overflow: hidden; */
     font-family: Arial;
 }
@@ -89,7 +89,7 @@ body {
 }
 #startBtn {
     font-size: 3vw;
-    background-color: #e91489;
+    background-color: #111108;
     border: none;
     /* border-width: 2vw;
     border-color: #e91489; */
