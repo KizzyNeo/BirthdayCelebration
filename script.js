@@ -67,7 +67,7 @@ function blowOutCandle() {
 
     flame.classList.add("off");
     flame.style.transform = "translateX(-50%)";
-    statusText.innerHTML = "God bless you richly! (From Kizito)";
+    statusText.innerHTML = "God bless you richly!";
 
     createSmoke();
     // createConfetti();
